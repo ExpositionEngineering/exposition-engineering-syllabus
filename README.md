@@ -146,29 +146,36 @@ such as stand-up meetings, and participation in the course discussions on
 Discord. This also includes the assessment of any supporting assignments focused
 on creating, for instance, the visual and audio identity of the course's
 podcast. This also includes a certification that a learner demonstrated
-competency of the use of the software, like VS Code and GitHub, that supports
-the operation of the podcasting studio. Finally, this includes a certification
-that a student attended a training session for learning how to use a podcasting
-student and demonstrated a careful competency with the use of the recording
-hardware and software.
-- **Show Proposals**: This includes the assessment of three show proposals that
+competency during the use of the software, like VS Code and GitHub, that
+supports the operation of a podcasting studio. Finally, this includes a
+certification that a student demonstrated a careful competency with the use of
+the recording hardware and software.
+- **Show Proposals**: This includes the assessment of two show proposals that
 offer information about the theme of and guest for an episode of a podcast. Each
 show proposal must appear as a file in a GitHub repository that originated from
 GitHub Classroom and contains a commit history demonstrating consistent work
 towards the completion of the writing assignment.
-- **Show Outlines**: This includes the assessment of three show outlines that
+- **Show Outlines**: This includes the assessment of two show outlines that
 feature written content for an introduction to both the podcast and the guest, a
 detailed series of questions for the question, and a conclusion to the podcast
 episode. Each show outline must appear as a file in a GitHub repository that
 originated from GitHub Classroom and contains a commit history demonstrating
 consistent work towards the completion of the writing assignment.
-- **Engineered Expositions**: This includes the assessment of three show
-outlines that
-- **Peer Reviews**: This includes the assessment of peer reviews that a student
-submits to the pull request (PR) in the GitHub repository of their peer review
-partner. Each student is responsible for adding to a separate GitHub repository
-a list of the PRs that they submitted to the GitHub repository of their peer
-review partner so as to facilitate the assessment of the completed peer reviews.
+- **Engineered Expositions**: This includes the assessment of writing
+assignments in which the learner engages a thorough and nuanced conversation
+with other writers in the field of exposition engineering. These assignments
+invite learner to develop a thesis, using primary sources and their experiences
+with software and hardware tools, about how technology influences written
+communication. These assignments may require a learned to use artificial
+intelligence (AI) writing assistants to interrogate as a part of a critical
+interrogation of how software changes written communication.
+- **Peer Reviews**: The course instructor will assign students to work with
+multiple peer review partners throughout the semester. This category includes
+the assessment of peer reviews that a student submits to the pull request (PR)
+in the GitHub repository of their peer review partner. Each student is
+responsible for adding to a separate GitHub repository a list of the PRs that
+they submitted to the GitHub repository of their peer review partner so as to
+facilitate the assessment of the completed peer reviews.
 - **Recorded Episodes**: Along with the certification that a learner completed
 the required training for use of the podcasting studio, this includes the
 single-take recording, editing, and engineering of two podcast episodes, the
