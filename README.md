@@ -272,7 +272,9 @@ It is mandatory for all students to attend the course sessions. If, due to
 extenuating circumstances, you will not be able to attend a session, then,
 whenever possible, please communicate with the instructor at least one week in
 advance to describe your situation. Students who have any signs of illness
-should not attend any in-person course sessions.
+should not attend any in-person course sessions. Since participation is an
+integral part of the course, any student who misses more than ten class
+sessions will automatically fail the class.
 
 ##### Class Preparation
 
