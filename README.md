@@ -400,6 +400,7 @@ context. Let's embark on this adventure together!
 
 **AI Writing Assistant Declaration**: portions of this document were partially
 generated, enhanced, or reviewed by GitHub Copilot (Model: `gpt-4`). Details
-about the installation and configuration of the tools that the course
-instructor used to create this syllabus are available in the [gkapfham/dotfiles
-GitHub repository](https://github.com/gkapfham/dotfiles).
+about the installation and configuration of the tools that the course instructor
+used to create this syllabus are available in the [gkapfham/dotfiles GitHub
+repository](https://github.com/gkapfham/dotfiles). The author of this syllabus
+certifies the correctness of its written content.
