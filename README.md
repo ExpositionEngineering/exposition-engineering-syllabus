@@ -383,3 +383,19 @@ class are encouraged to contact Student Accessibility and Support Services
 in the Center for Student Success in Pelletier Library. Please contact SASS as
 soon as possible to ensure that approved accommodations are implemented in a
 timely fashion.
+
+### Welcome to an Exposition Engineering Adventure!
+
+Welcome to an exciting journey of tool-mediated communication! This course
+offers a hands-on deep-dive into both conceptual frameworks and practical
+software tools used during effective communication. We will master the art of
+crafting compelling written and oral arguments using accessible computer
+programs like integrated development environments, digital audio workstations,
+and artificial intelligence assistants. Together, we'll work in teams to create
+and publish engaging content through venues like a websites and a podcast. This
+seminar is designed to hone your written and oral communication skills, with a
+special focus on persuasive communication in an academic context. Let's embark
+on this adventure together!
+
+**AI Writing Assistant Declaration**: portions of this document were partially
+generated, enhanced, or reviewed by GitHub Copilot (Model: `gpt-4`).
