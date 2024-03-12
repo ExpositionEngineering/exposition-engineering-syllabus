@@ -352,12 +352,12 @@ pledge:
 
 Students who create the any type of writing, speaking, or peer review should
 ensure the creation of a high-quality final product. While students are
-permitted to use a wide variety of exposition engineering tools, such as grammar
-checkers, idea generators, text writers, and text revisers, including
+permitted to use a wide variety of exposition engineering tools, such as
+grammar checkers, idea generators, text writers, and text revisers, including
 intelligent systems that leverage large language models like GitHub Copilot or
 ChatGPT, they must take responsibility for all of the content that they submit
-for this course, including artifacts that are automatically generated and/or
-reviewed by a software tool.
+for this course, including artifacts that are automatically generated,
+enhanced, or reviewed by a software tool.
 
 Students who uses software tools to create content are responsible for citing
 their sources and demonstrating their understanding of it during the in-person
