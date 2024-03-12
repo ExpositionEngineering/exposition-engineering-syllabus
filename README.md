@@ -32,43 +32,17 @@ that, by necessity, the meeting before yours may sometimes run late.
 
 ### Course Description
 
-A study of fundamental methods for designing and implementing algorithms and
-analyzing their efficiency. While developing expertise in select models of
-computation and the key mathematical and experimental approaches to studying
-algorithm efficiency, students investigate different types of algorithms through
-hands-on activities that often require teamwork. Students also learn how to
-determine whether a problem can be efficiently solved by an algorithm that is
-implemented as a computer program. During a weekly laboratory session students
-use state-of-the-art technology to complete projects, reporting on their results
-through both written documents and oral presentations. Students are invited to
-use their own departmentally approved laptop in this course; a limited number of
-laptops are available for use during class and lab sessions.
+An experiential exploration of persuasive communication through the use of both
+conceptual frameworks and software tools. This hands-on course introduces
+templates and techniques for crafting compelling written and oral arguments.
+Leveraging accessible computer programs such as integrated development
+environments, digital audio workstations, and artificial intelligence
+assistants, students work in teams to produce and publish engaging content
+through websites, videos, and podcasts. This seminar develops written and oral
+communication skills with an emphasis on persuasive communication in an
+academic context.
 
-- **Prerequisite**: CMPSC 101
-- **Distribution Requirements**: QR, SP
-
-::: {.callout-note appearance="minimal" title="Explaining the Distribution Requirements" collapse="false"}
-
-- **Quantitative Reasoning (QR)**: Quantitative Reasoning is the ability to
-understand, investigate, communicate, and contextualize numerical, symbolic, and
-graphical information towards the exploration of natural, physical, behavioral,
-or social phenomena.
-
-- **Learning Outcome**: Students who successfully complete this requirement will
-demonstrate an understanding of how to interpret numeric data and/or their
-graphical or symbolic representations.
-
-- **Scientific Process and Knowledge (SP)**: Courses involving Scientific
-Process and Knowledge aim to convey an understanding of what is known or can be
-known about the natural world; apply scientific reasoning towards the analysis
-and synthesis of scientific information; and create scientifically literate
-citizens who can engage productively in problem solving.
-
-- **Learning Outcome**: Students who successfully complete this requirement will
-demonstrate an understanding of the nature, approaches, and domain of scientific
-inquiry.
-
-:::
+- **Prerequisite**: FS 101
 
 ### Learning Objectives
 
