@@ -65,8 +65,10 @@ of genres, occasions, and purposes.
 - To develop an awareness of audience and its effects on the creation and
 delivery of ideas.
 - To use the ideas of others to advance thinking.
-- To understand reading and listening as acts of inquiry. Learning Outcomes
-Specific to FS 101
+- To understand reading and listening as acts of inquiry.
+
+#### Learning Outcomes Specific to FS 101
+
 - To recognize and express interesting ideas of intellectual value.
 - To develop an engaging voice as a speaker and writer.
 - To organize ideas effectively to communicate in specific contexts.
