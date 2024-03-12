@@ -20,16 +20,15 @@
       * [Assessment Policies](#assessment-policies)
         * [Assignment Submission](#assignment-submission)
         * [Assignment Evaluation](#assignment-evaluation)
-        * [Algorithmology Tokens](#algorithmology-tokens)
+        * [Exposition Engineering Tokens](#exposition-engineering-tokens)
         * [Course Attendance](#course-attendance)
         * [Class Preparation](#class-preparation)
       * [Seeking Assistance](#seeking-assistance)
       * [Using GitHub and Discord](#using-github-and-discord)
       * [Using Email](#using-email)
       * [Honor Code](#honor-code)
-      * [Effective Algorithm Engineering](#effective-algorithm-engineering)
+      * [Effective Exposition Engineering](#effective-exposition-engineering)
       * [Disability Services](#disability-services)
-    * [Welcome Message](#welcome-message)
 
 <!---toc end-->
 
