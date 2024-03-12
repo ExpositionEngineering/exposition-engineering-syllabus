@@ -129,7 +129,7 @@ during the academic semester.
 
 | Category                 | Percentage |
 |--------------------------|------------|
-| Studio Participation     |  20%       |
+| Course Participation     |  20%       |
 | Show Proposals           |  20%       |
 | Show Outlines            |  20%       |
 | Engineered Expositions   |  10%       |
@@ -140,25 +140,30 @@ during the academic semester.
 Here are some additional details about the recording and reporting of the course
 assessments:
 
-- **Team Participation**: This includes all of the studio participation scores
+- **Course Participation**: This includes all of the course participation scores
 that reflect your timely attendance in class, participation in class activities
-such as stand-up meetings, and participation in the studio discussions on
+such as stand-up meetings, and participation in the course discussions on
 Discord. This also includes the assessment of any supporting assignments focused
-on creating, for instance, the visual and audio identity of the podcast. This
-also includes a certification that a learner demonstrated competency of the use
-of the software, like VS Code and GitHub, that supports the operation of the
-podcasting studio.
-- **Show Proposals**: This includes the assessment of six show proposals that
+on creating, for instance, the visual and audio identity of the course's
+podcast. This also includes a certification that a learner demonstrated
+competency of the use of the software, like VS Code and GitHub, that supports
+the operation of the podcasting studio. Finally, this includes a certification
+that a student attended a training session for learning how to use a podcasting
+student and demonstrated a careful competency with the use of the recording
+hardware and software.
+- **Show Proposals**: This includes the assessment of three show proposals that
 offer information about the theme of and guest for an episode of a podcast. Each
 show proposal must appear as a file in a GitHub repository that originated from
 GitHub Classroom and contains a commit history demonstrating consistent work
 towards the completion of the writing assignment.
-- **Show Outlines**: This includes the assessment of six show outlines that
+- **Show Outlines**: This includes the assessment of three show outlines that
 feature written content for an introduction to both the podcast and the guest, a
 detailed series of questions for the question, and a conclusion to the podcast
 episode. Each show outline must appear as a file in a GitHub repository that
 originated from GitHub Classroom and contains a commit history demonstrating
 consistent work towards the completion of the writing assignment.
+- **Engineered Expositions**: This includes the assessment of three show
+outlines that
 - **Peer Reviews**: This includes the assessment of peer reviews that a student
 submits to the pull request (PR) in the GitHub repository of their peer review
 partner. Each student is responsible for adding to a separate GitHub repository
