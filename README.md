@@ -1,5 +1,38 @@
 # Syllabus
 
+## Table of Contents
+
+<!---toc start-->
+
+* [Syllabus](#syllabus)
+  * [Table of Contents](#table-of-contents)
+  * [FS 102, Exposition Engineering, Spring 2024](#fs-102-exposition-engineering-spring-2024)
+    * [Course Instructor](#course-instructor)
+    * [Instructor Appointments](#instructor-appointments)
+    * [Course Description](#course-description)
+    * [Learning Objectives](#learning-objectives)
+      * [Global Expectations for Students in the FS Program](#global-expectations-for-students-in-the-fs-program)
+      * [Learning Outcomes Specific to FS 101](#learning-outcomes-specific-to-fs-101)
+      * [Learning Outcomes Specific to FS 102](#learning-outcomes-specific-to-fs-102)
+    * [Course Textbooks](#course-textbooks)
+    * [Course Policies](#course-policies)
+      * [Assessment](#assessment)
+      * [Assessment Policies](#assessment-policies)
+        * [Assignment Submission](#assignment-submission)
+        * [Assignment Evaluation](#assignment-evaluation)
+        * [Algorithmology Tokens](#algorithmology-tokens)
+        * [Course Attendance](#course-attendance)
+        * [Class Preparation](#class-preparation)
+      * [Seeking Assistance](#seeking-assistance)
+      * [Using GitHub and Discord](#using-github-and-discord)
+      * [Using Email](#using-email)
+      * [Honor Code](#honor-code)
+      * [Effective Algorithm Engineering](#effective-algorithm-engineering)
+      * [Disability Services](#disability-services)
+    * [Welcome Message](#welcome-message)
+
+<!---toc end-->
+
 ## FS 102, Exposition Engineering, Spring 2024 
 
 ### Course Instructor
