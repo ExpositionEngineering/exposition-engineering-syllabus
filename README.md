@@ -48,16 +48,15 @@ academic context.
 
 Allegheny College’s educational program is designed so that its graduates are able to:
 
-- **AC-1**: Think critically and creatively.
+- Think critically and creatively.
 
-- **AC-2**: Communicate clearly and persuasively as speakers and writers.
+- Communicate clearly and persuasively as speakers and writers.
 
-- **AC-3**: Invoke multiple ways of understanding to organize and evaluate
-evidence, and to interpret and make sense of their experiences and the
-experiences of others.
+- Invoke multiple ways of understanding to organize and evaluate evidence, and
+to interpret and make sense of their experiences and the experiences of others.
 
-- **AC-4**: Apply their knowledge and learning to engage in informed debate,
-and to analyze and solve problems.
+- Apply their knowledge and learning to engage in informed debate, and to
+analyze and solve problems.
 
 #### Global Expectations for Students in the FS Program
 
