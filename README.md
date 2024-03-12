@@ -203,12 +203,12 @@ assignments in which the learner engages a thorough and nuanced conversation
 with other writers in the field of exposition engineering. These assignments
 invite learner to develop a thesis, using primary sources and their experiences
 with software and hardware tools, about how technology influences written
-communication. These assignments may require a learned to use artificial
-intelligence (AI) writing assistants to interrogate as a part of a critical
-interrogation of how software changes written communication. Each engineered
-exposition must appear as a file in a GitHub repository that originated from
-GitHub Classroom and contains a commit history demonstrating consistent work
-towards the completion of the writing assignment.
+communication. These assignments may require a learner to use artificial
+intelligence (AI) writing assistants to experientially investigate how software
+changes the process of and final artifacts arising from written communication.
+Each engineered exposition must appear as a file in a GitHub repository that
+originated from GitHub Classroom and contains a commit history demonstrating
+consistent work towards the completion of the writing assignment.
 - **Peer Reviews**: The course instructor will assign students to work with
 multiple peer review partners throughout the semester. This category includes
 the assessment of peer reviews that a student submits to the pull request (PR)
