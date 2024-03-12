@@ -59,73 +59,64 @@ experiences of others.
 - **AC-4**: Apply their knowledge and learning to engage in informed debate,
 and to analyze and solve problems.
 
-Computer Science 202 at Allegheny College is a core course in the Computer
-Science major. Graduates with the Computer Science major, who all take the
-Computer Science 202 course, must demonstrate their attainment of these learning
-objectives:
+#### Global Expectations for Students in the FS Program
 
-- **CS-1**: Demonstrate and be able to communicate the knowledge of data types,
-algorithms, and mathematical principles behind discrete objects.
+- To become able readers, listeners, speakers, and writers acting in a variety
+of genres, occasions, and purposes.
+- To develop an awareness of audience and its effects on the creation and
+delivery of ideas.
+- To use the ideas of others to advance thinking.
+- To understand reading and listening as acts of inquiry. Learning Outcomes
+Specific to FS 101
+- To recognize and express interesting ideas of intellectual value.
+- To develop an engaging voice as a speaker and writer.
+- To organize ideas effectively to communicate in specific contexts.
+- To use language clearly, powerfully, and with appropriate detail.
 
-- **CS-2**: Use scientific and theoretical methods to design, implement,
-evaluate, deploy, improve, maintain, and document software and hardware systems.
+As a review, these elements should appear inside of an FS 101 course that is the
+prerequisite for this course:
 
-- **CS-3**: Apply and articulate key concepts from a specialization area where
-the interconnection between software and hardware is important and evident.
+- Regular opportunities to speak in class and short writing assignments
+- No fewer than 10 pages of assigned writing, excluding revisions
+- At least two formal writing assignments of 3-5 pages that include the
+possibility of revision at least one formal speech assignment (4-5 minutes) that
+includes preparatory work
+- Library research as a part of at least one of the writing or speech
+assignments at least two one-on-one meetings with each student.
 
-- **CS-4**: Able to communicate technical details of the produced software and
-hardware artifacts both in writing and orally.
+#### Learning Outcomes Specific to FS 102
 
-All five of the Computer Science major's learning objectives support the **QR**
-and **SP** distribution requirements and the College's learning objectives.
+- To participate in a sustained conversation with other academic writers and speakers.
+- To generate a thesis that addresses a clearly defined problem.
+- To support a thesis with appropriate reading and evidence.
+- To communicate in progressively complex and nuanced ways.
 
-The specific learning objectives for Computer Science 202 are as follows:
+These elements should appear inside of an FS 101 course that is the
+prerequisite for this course:
 
-- **CS-202-1**: Correctly implement both well-established and custom data
-structures using a programming language so as to solve a problem with a computer
-program.
+In particular, the faculty encourages FS instructors to incorporate the
+following elements into the design of Academic Discourse II:
 
-  - Enables the attainment of **CS-1**.
+- Regular opportunities to speak in class.
+- No fewer than 20 pages of assigned writing, excluding revisions.
+- At least three writing assignments (4-6 pages) that include the possibility of
+revision.
+- At least two speech assignments (total of 12-16 minutes) that include outline
+development and extemporaneous delivery research, with close attention to source
+credibility, as a substantial part of at least one of the writing or speech
+assignments.
 
-- **CS-202-2**: Perform an asymptotic analysis of an algorithm to arrive at its
-correct worst-case time complexity class.
-
-  - Enables the attainment of **CS-2**.
-  - Enables the attainment of **CS-4**.
-
-- **CS-202-3**: Conduct experiments that measure the efficiency of different
-combinations of programming languages, data structures, and algorithms.
-
-  - Enables the attainment of **CS-3**.
-
-- **CS-202-4**: Use both theoretical and experimental results to pick the data
-structure(s) and algorithm(s) that balance the trade-offs associated with
-correctly and efficiently solving a problem with a computer program.
-
-  - Enables the attainment of **CS-2**.
-
-- **CS-202-5**: Effectively apply algorithmic problem solving techniques like
-searching, sorting, and memoization to correctly and efficiently solve a problem
-through the use of a computer program.
-
-  - Enables the attainment of **CS-1**.
-
-The learning objectives for Computer Science 202 enable the attainment of the CS
-program learning objectives that in turn support the attainment of the College's
-learning objectives.
+Note: The context in this section was, with minor exception, directly quoted
+from the following web site: [First-Year/Sophomore (FS)
+Program](https://sites.allegheny.edu/facultyresources/fsprogram/).
 
 ### Course Textbooks
 
-- {{< iconify fa6-solid book-open >}} Online textbook called [A First Course on
-Data Structures in Python](https://donsheehy.github.io/datastructures/)
-
-- {{< iconify fa6-brands github >}} The `ds2` package in the 
-[donsheehy/datastructures](https://github.com/donsheehy/datastructures)  GitHub
-repository
-
-Extensive details about the content that the course covers in the textbook are
-available in the [course schedule](../schedule/index.qmd) and the [course
-slides](../slides/index.qmd).
+There are no course textbooks for the Exposition Engineering course. Instead,
+the course instructor will assign readings from a variety of sources that
+connect to the theme of the course. For instance, you will review web-based
+sources that explain how to complete writing assignments with software tools and
+others that introduce the key steps to, for instance, creating a podcast.
 
 ### Course Policies
 
