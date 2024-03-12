@@ -144,10 +144,10 @@ assessments:
 that reflect your timely attendance in class, participation in class activities
 such as stand-up meetings, and participation in the studio discussions on
 Discord. This also includes the assessment of any supporting assignments focused
-on creating, for instance, the visual and audio identity of the podcast.
-Finally, this includes a certification that a learner demonstrated competency of
-the use of the software, like VS Code and GitHub, that supports the operation of
-the podcasting studio.
+on creating, for instance, the visual and audio identity of the podcast. This
+also includes a certification that a learner demonstrated competency of the use
+of the software, like VS Code and GitHub, that supports the operation of the
+podcasting studio.
 - **Show Proposals**: This includes the assessment of six show proposals that
 offer information about the theme of and guest for an episode of a podcast. Each
 show proposal must appear as a file in a GitHub repository that originated from
