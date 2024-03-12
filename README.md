@@ -256,11 +256,11 @@ project's specification and submitted it by the deadline to the stated platform.
 
 ##### Exposition Engineering Tokens
 
-Students may "spend" up to five algorithmology "tokens" that they may use to
-either (i) secure 48 hours of additional time to complete an assigned task or
-(ii) request a reassessment of an already graded project after revising it
-according to feedback from the instructor. For instance, a student may choose to
-spend a token by asking the instructor to reevaluate one of the algorithm
+Students may "spend" up to five exposition engineering "tokens" that they may
+use to either (i) secure 48 hours of additional time to complete an assigned
+task or (ii) request a reassessment of an already graded project after revising
+it according to feedback from the instructor. For instance, a student may choose
+to spend a token by asking the instructor to reevaluate one of the algorithm
 engineering projects. Outside of these five tokens, the instructor will not
 consider any additional requests for deadline extensions or assignment
 reassessment.
@@ -284,25 +284,24 @@ that students will volunteer to lead and actively contribute to all class
 sessions. Only those students who have prepared for class by reading and running
 the assigned material will be able to effectively participate in these class
 discussions. To help students remain organized and to effectively prepare for
-classes, the instructor will maintain a list of [course
-slides](../slides/index.qmd) and a [course schedule](../schedule/index.qmd) with
-reading assignments and other important information about the course (e.g.,
-references to the algorithm engineering projects).
+classes, the instructor will make regular announcements at the start of class
+and through the course's Discord server about the tasks that are the focus of
+each week.
 
 #### Seeking Assistance
 
 Students who are struggling to understand the knowledge and skills developed in
 any of the course sessions are encouraged to seek assistance from the course
 instructor and/or the student technical leaders. Students should, within the
-bounds of the Honor Code, ask and answer questions on the [Algorithmology
-Discord Server](https://discord.gg/YHjhQaBnme); please request assistance from
-the instructor and student technical leaders first through public Discord
-channels before sending an email. Students who need the course instructor's
-assistance are invited to schedule a meeting through the [course instructor's
-appointment scheduler](https://www.gregorykapfhammer.com/schedule/) and come to
-the meeting with all of the details needed to discuss their question. Students
-can find out the office hour schedule for student technical leaders by viewing
-the list of [student technical
+bounds of the Honor Code, ask and answer questions on the [Exposition
+Engineering Discord Server](https://discord.gg/HMjSBtrUV9); please request
+assistance from the instructor and student technical leaders first through
+public Discord channels before sending an email. Students who need the course
+instructor's assistance are invited to schedule a meeting through the [course
+instructor's appointment scheduler](https://www.gregorykapfhammer.com/schedule/)
+and come to the meeting with all of the details needed to discuss their
+question. Students can find out the office hour schedule for student technical
+leaders by viewing the list of [student technical
 leaders](https://www.cis.allegheny.edu/teaching/technicalleaders/).
 
 #### Using GitHub and Discord
@@ -310,8 +309,8 @@ leaders](https://www.cis.allegheny.edu/teaching/technicalleaders/).
 This course will primarily use GitHub and Discord for all course communication.
 We will use GitHub for the sharing of both source code and course projects and
 for reporting issues in those materials. We will use two distinct Discord
-servers for all course discussions. The [Algorithmology Discord
-Server](https://discord.gg/YHjhQaBnme) provides a way for members of the
+servers for all course discussions. The [Exposition Engineering Discord
+Server](https://discord.gg/HMjSBtrUV9) provides a way for members of the
 developer development community to use text and video to chat with each other
 and will be the main forum for discussing the professional and technical content
 in software engineering. The [Allegheny College Computer Science Discord
@@ -322,8 +321,8 @@ be in a GitHub repository.
 
 #### Using Email
 
-Although we will primarily use the [Algorithmology Discord
-Server](https://discord.gg/YHjhQaBnme) for class communication, the course
+Although we will primarily use the [Exposition Engineering Discord
+Server](https://discord.gg/HMjSBtrUV9) for class communication, the course
 instructor will sometimes use email to send announcements about important
 matters such as changes in the schedule. It is your responsibility to check your
 email at least once a day and to ensure that you can reliably send and receive
@@ -346,30 +345,25 @@ pledge:
 > defined in the Honor Code, and to maintain the integrity of both
 > myself and the College community as a whole.
 
-#### Effective Algorithm Engineering
+#### Effective Exposition Engineering
 
-Students who create the source code and documentation for their algorithm
-engineering and algorithm all-hands projects should ensure the implementation of
-a high-quality final product. While students are permitted to use a wide variety
-of software engineering tools, such as integrated development environments,
-testing frameworks, automated debuggers, and code generators (e.g., systems that
-leverage large language models like GitHub Copilot) and documentation sites such
-as StackOverflow, they must take responsibility for all of the source code and
-documentation that they submit for this course, including artifacts that are
-automatically generated by a software tool.
+Students who create the any type of writing, speaking, or peer review should
+ensure the creation of a high-quality final product. While students are
+permitted to use a wide variety of exposition engineering tools, such as grammar
+checkers, idea generators, text writers, and text revisers, including
+intelligent systems that leverage large language models like GitHub Copilot or
+ChatGPT, they must take responsibility for all of the content that they submit
+for this course, including artifacts that are automatically generated and/or
+reviewed by a software tool.
 
-This means that every student must work as an effective algorithm engineer by
-documenting the sources for their work and verifying the correctness,
-maintainability, and long-term reliability of all source code and documentation
-that they submit. As such, students who uses software tools to create content
-are responsible for citing their sources and demonstrating their understanding
-of it during the in-person assessments. Moreover, all students in the class are
-responsible for all of the source code and documentation submitted to the GitHub
-repository that hosts the course projects, including any tool-generated software
-artifacts. This means that every student should be able to answer questions,
-during either an in-person or online discussion, about any technical or
-professional content, including that which was automatically generated by a
-software tool.
+Students who uses software tools to create content are responsible for citing
+their sources and demonstrating their understanding of it during the in-person
+assessments. Moreover, all students in the class are responsible for all of the
+source code and documentation submitted to the GitHub repository that hosts the
+course projects, including any tool-generated software artifacts. This means
+that every student should be able to answer questions, during either an
+in-person or online discussion, about any technical or professional content,
+including that which was automatically generated by a software tool.
 
 Students who are effective algorithm engineers also pledge to abide by the [ACM
 Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics).
