@@ -175,27 +175,27 @@ during the academic semester.
 Here are some additional details about the recording and reporting of the course
 assessments:
 
-- **Course Participation**: This includes all of the course participation scores
-that reflect your timely attendance in class, participation in class activities
-such as stand-up meetings, and participation in the course discussions on
-Discord. This also includes the assessment of any supporting assignments focused
-on creating, for instance, the visual and audio identity of the course's
-podcast. This also includes a certification that a learner demonstrated
-competency during the use of the software, like VS Code and GitHub, that
-supports the operation of a podcasting studio. Finally, this includes a
-certification that a student demonstrated a careful competency with the use of
-the recording hardware and software.
+- **Course Participation**: This includes all of the course participation
+scores that reflect your timely attendance in class, participation in class
+activities such as stand-up meetings, and participation in the course
+discussions on Discord. This also includes the assessment of any supporting
+assignments focused on creating, for instance, the visual and audio identity of
+the course's podcast. This also includes a certification that a learner
+demonstrated competency during the use of the software, like VS Code and
+GitHub, that supports the operation of a podcasting studio. Finally, this
+includes a certification that a student demonstrated a careful competency with
+the use of the recording hardware and software.
 - **Show Proposals**: This includes the assessment of two show proposals that
-offer information about the theme of and guest for an episode of a podcast. Each
-show proposal must appear as a file in a GitHub repository that originated from
-GitHub Classroom and contains a commit history demonstrating consistent work
-towards the completion of the writing assignment.
+offer information about the theme of and guest for an episode of a podcast.
+Each show proposal must appear as a file in a GitHub repository that originated
+from GitHub Classroom and contains a commit history demonstrating consistent
+work towards the completion of the writing assignment.
 - **Show Outlines**: This includes the assessment of two show outlines that
-feature written content for an introduction to both the podcast and the guest, a
-detailed series of questions for the question, and a conclusion to the podcast
-episode. Each show outline must appear as a file in a GitHub repository that
-originated from GitHub Classroom and contains a commit history demonstrating
-consistent work towards the completion of the writing assignment.
+feature written content for an introduction to both the podcast and the guest,
+a detailed series of questions for the question, and a conclusion to the
+podcast episode. Each show outline must appear as a file in a GitHub repository
+that originated from GitHub Classroom and contains a commit history
+demonstrating consistent work towards the completion of the writing assignment.
 - **Engineered Expositions**: This includes the assessment of writing
 assignments in which the learner engages a thorough and nuanced conversation
 with other writers in the field of exposition engineering. These assignments
@@ -222,14 +222,14 @@ Google Drive. If time permits, the course instructor will make these podcast
 episodes available on a podcast web site and through podcast hosting platforms
 such as Spotify.
 - **Podcast Presentations**: This includes the assessment for a practice
-presentation that was previously developed through a brainstorming session and
-an outline and the assessment of a final presentation given on the day of the
+presentation that was previously developed through brainstorming and outlining
+assignments and the assessment of a final presentation given on the day of the
 final examination, Friday, May 3, 2024 at 9:00 AM.
 - **Final Grade**: This score is a percentage out of 100%. When this score is
-part of an interim report it may represent an over-estimate of a student's final
-grade because of the fact that it incorporates other over-estimates in one of
-its constituent scores. This score weights the constituent scores according to
-the percentages that are provided in the table in this document.
+part of an interim report it may represent an over-estimate of a student's
+final grade because of the fact that it incorporates other over-estimates in
+one of its constituent scores. This score weights the constituent scores
+according to the percentages that are provided in the table in this document.
 
 #### Assessment Policies
 
