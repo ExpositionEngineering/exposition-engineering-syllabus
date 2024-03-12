@@ -73,8 +73,8 @@ Specific to FS 101
 - To organize ideas effectively to communicate in specific contexts.
 - To use language clearly, powerfully, and with appropriate detail.
 
-As a review, these elements should appear inside of an FS 101 course that is the
-prerequisite for this course:
+As a review, these elements should appear have been evident in the FS 101
+course that is the prerequisite for this course:
 
 - Regular opportunities to speak in class and short writing assignments
 - No fewer than 10 pages of assigned writing, excluding revisions
