@@ -115,8 +115,8 @@ Program](https://sites.allegheny.edu/facultyresources/fsprogram/).
 There are no course textbooks for the Exposition Engineering course. Instead,
 the course instructor will assign readings from a variety of sources that
 connect to the theme of the course. For instance, you will review web-based
-sources that explain how to complete writing assignments with software tools and
-others that introduce the key steps to, for instance, creating a podcast.
+sources that explain how to complete writing assignments with software tools
+and tutorials that introduce the key steps to creating a podcast.
 
 ### Course Policies
 
