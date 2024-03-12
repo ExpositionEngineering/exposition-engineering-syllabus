@@ -204,7 +204,10 @@ invite learner to develop a thesis, using primary sources and their experiences
 with software and hardware tools, about how technology influences written
 communication. These assignments may require a learned to use artificial
 intelligence (AI) writing assistants to interrogate as a part of a critical
-interrogation of how software changes written communication.
+interrogation of how software changes written communication. Each engineered
+exposition must appear as a file in a GitHub repository that originated from
+GitHub Classroom and contains a commit history demonstrating consistent work
+towards the completion of the writing assignment.
 - **Peer Reviews**: The course instructor will assign students to work with
 multiple peer review partners throughout the semester. This category includes
 the assessment of peer reviews that a student submits to the pull request (PR)
@@ -214,11 +217,15 @@ they submitted to the GitHub repository of their peer review partner so as to
 facilitate the assessment of the completed peer reviews.
 - **Recorded Episodes**: Along with the certification that a learner completed
 the required training for use of the podcasting studio, this includes the
-single-take recording, editing, and engineering of two podcast episodes, the
-final versions of which must be uploaded in `WAV` and `MP3` format to a Google
-Drive.
-- **Podcast Presentation**: This includes an assessment of a final presentation
-given on the day of the final examination, Friday, May 3, 2024 at 9:00 AM.
+single-take recording, editing, and audio engineering of two podcast episodes,
+the final versions of which must be uploaded in `WAV` and `MP3` format to a
+Google Drive. If time permits, the course instructor will make these podcast
+episodes available on a podcast web site and through podcast hosting platforms
+such as Spotify.
+- **Podcast Presentations**: This includes the assessment for a practice
+presentation that was previously developed through a brainstorming session and
+an outline and the assessment of a final presentation given on the day of the
+final examination, Friday, May 3, 2024 at 9:00 AM.
 - **Final Grade**: This score is a percentage out of 100%. When this score is
 part of an interim report it may represent an over-estimate of a student's final
 grade because of the fact that it incorporates other over-estimates in one of
@@ -233,11 +240,11 @@ assessment policies:
 ##### Assignment Submission
 
 All assignments will have a stated due date shared through GitHub, GitHub
-Classroom, and/or the [Algorithmology Discord](https://discord.gg/YHjhQaBnme).
-No credit will be awarded for any course work that you submit to the incorrect
-GitHub repository or web site. Unless special arrangements are made with the
-instructor to address extenuating circumstances, no work will be accepted after
-the deadline.
+Classroom, and/or the [Exposition Engineering
+Discord](https://discord.gg/HMjSBtrUV9). No credit will be awarded for any
+course work that you submit to the incorrect GitHub repository or web site.
+Unless special arrangements are made with the instructor to address extenuating
+circumstances, no work will be accepted after the deadline.
 
 ##### Assignment Evaluation
 
@@ -247,7 +254,7 @@ privately receive a grade for and feedback on your course projects. Your grade
 will be a function of whether or not you completed work that fulfills the
 project's specification and submitted it by the deadline to the stated platform.
 
-##### Algorithmology Tokens
+##### Exposition Engineering Tokens
 
 Students may "spend" up to five algorithmology "tokens" that they may use to
 either (i) secure 48 hours of additional time to complete an assigned task or
