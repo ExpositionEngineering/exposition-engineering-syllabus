@@ -106,8 +106,8 @@ development and extemporaneous delivery research, with close attention to source
 credibility, as a substantial part of at least one of the writing or speech
 assignments.
 
-Note: The context in this section was, with minor exception, directly quoted
-from the following web site: [First-Year/Sophomore (FS)
+**Note**: The context in this section was, with minor exception, directly
+quoted from the following web site: [First-Year/Sophomore (FS)
 Program](https://sites.allegheny.edu/facultyresources/fsprogram/).
 
 ### Course Textbooks
