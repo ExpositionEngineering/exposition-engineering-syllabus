@@ -29,6 +29,7 @@
       * [Honor Code](#honor-code)
       * [Effective Exposition Engineering](#effective-exposition-engineering)
       * [Disability Services](#disability-services)
+    * [Welcome to an Exposition Engineering Adventure!](#welcome-to-an-exposition-engineering-adventure)
 
 <!---toc end-->
 
@@ -398,4 +399,7 @@ special focus on persuasive communication in an academic context. Let's embark
 on this adventure together!
 
 **AI Writing Assistant Declaration**: portions of this document were partially
-generated, enhanced, or reviewed by GitHub Copilot (Model: `gpt-4`).
+generated, enhanced, or reviewed by GitHub Copilot (Model: `gpt-4`). Details
+about the installation and configuration of the tools that the course
+instructor used to create this syllabus are available in the [dotfiles GitHub
+repository](https://github.com/gkapfham/dotfiles).
