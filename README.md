@@ -393,7 +393,7 @@ practical software tools used during effective communication. We will master
 the art of crafting compelling written and oral arguments using accessible
 computer programs like integrated development environments, digital audio
 workstations, and artificial intelligence assistants. Together, we'll work in
-teams to create and publish engaging content through venues like a websites and
+teams to create and publish engaging content through venues like a web site and
 a podcast. This seminar is designed to hone your written and oral communication
 skills, with a special focus on persuasive communication in an academic
 context. Let's embark on this adventure together!
