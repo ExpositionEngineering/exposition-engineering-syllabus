@@ -281,15 +281,15 @@ sessions will automatically fail the class.
 In order to minimize confusion and maximize learning, students must invest time
 to prepare for the class sessions that focus on professional development,
 technical development, and project development. Although the course instructor
-and the student technical leaders will always be available to serve as guide for
-individual students, teams of students, and the entire class, it is expected
-that students will volunteer to lead and actively contribute to all class
-sessions. Only those students who have prepared for class by reading and running
-the assigned material will be able to effectively participate in these class
-discussions. To help students remain organized and to effectively prepare for
-classes, the instructor will make regular announcements at the start of class
-and through the course's Discord server about the tasks that are the focus of
-each week.
+and the student technical leaders will always be available to serve as guide
+for individual students, teams of students, and the entire class, it is
+expected that students will volunteer to lead and actively contribute to all
+class sessions. Only those students who have prepared for class by reading and
+running the assigned material will be able to effectively participate in these
+class discussions. To help students remain organized and to effectively prepare
+for classes, the instructor will, at the start of class and through the
+course's Discord server, make regular announcements about the tasks that are
+the focus of each week.
 
 #### Seeking Assistance
 
