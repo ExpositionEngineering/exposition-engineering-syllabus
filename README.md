@@ -184,7 +184,9 @@ the course's podcast. This also includes a certification that a learner
 demonstrated competency during the use of the software, like VS Code and
 GitHub, that supports the operation of a podcasting studio. Finally, this
 includes a certification that a student demonstrated a careful competency with
-the use of the recording hardware and software.
+the use of the recording hardware and software. Since participation is an
+integral part of the course, any student who misses more than ten class
+sessions will automatically fail the class.
 - **Show Proposals**: This includes the assessment of two show proposals that
 offer information about the theme of and guest for an episode of a podcast.
 Each show proposal must appear as a file in a GitHub repository that originated
@@ -233,8 +235,8 @@ according to the percentages that are provided in the table in this document.
 
 #### Assessment Policies
 
-Unless exempted by the instructor, students must abide by the following
-assessment policies:
+Unless exempted by the instructor for documented reasons and/or extenuating
+circumstances, students must abide by the following assessment policies:
 
 ##### Assignment Submission
 
