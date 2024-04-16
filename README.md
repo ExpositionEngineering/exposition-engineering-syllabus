@@ -166,9 +166,9 @@ during the academic semester.
 | Category                 | Percentage |
 |--------------------------|------------|
 | Course Participation     |  20%       |
-| Show Proposals           |  20%       |
+| Show Proposals           |  10%       |
 | Show Outlines            |  20%       |
-| Engineered Expositions   |  10%       |
+| Engineered Expositions   |  20%       |
 | Peer Reviews             |  10%       |
 | Recorded Episodes        |  10%       |
 | Podcast Presentations    |  10%       |
